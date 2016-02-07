@@ -3,7 +3,7 @@
 https://github.com/microsoft/caffe
 
 ```
-caffe device_query --gpu=all
+bin\caffe device_query --gpu=all
 ```
 
 ## License and Citation
